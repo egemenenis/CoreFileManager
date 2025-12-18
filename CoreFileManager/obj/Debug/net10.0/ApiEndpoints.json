@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CoreFileManager.Controllers.LogsController",
+    "Method": "GetLatestJsonLog",
+    "RelativePath": "logs/json",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "X-LOG-KEY",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
